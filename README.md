@@ -2,10 +2,71 @@
 
 Frontend engineer (SDE 2 at **Ninjacart**, Bangalore) with 4+ years building real-time web apps in **Angular** and **React**. Lately I've been shipping my own mobile apps and experimenting with AI-assisted developer tools.
 
-- 🛠️ Currently building **Rookwise** (chess coach), **AdFree Tube** and **ExamDesk** as side projects
+- 📱 Building my own Android apps: **[AdFree Tube](https://rajkumar30598.github.io/Adfree-tube-landing/)** and **[Rookwise](https://rajkumar30598.github.io/rookwise-site/)**
 - ⚡ At work: real-time order management (Angular + WebSockets), in-app chat (Matrix), KYC and payment flows
 - 🌐 Portfolio: [rajkumarv-portfolio.vercel.app](https://rajkumarv-portfolio.vercel.app)
 - 💼 [LinkedIn](https://www.linkedin.com/in/rajkumar-v-b11282225/) · 📫 rajkumar30598@gmail.com
+
+## 📱 My apps
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://rajkumar30598.github.io/Adfree-tube-landing/"><img src="https://rajkumar30598.github.io/Adfree-tube-landing/assets/icon-512.png" width="64" align="left" alt="AdFree Tube icon"></a>
+
+### [AdFree Tube](https://rajkumar30598.github.io/Adfree-tube-landing/)
+**Every video. Zero ads.**
+
+<br clear="left">
+
+A free, private video player for Android — no account needed.
+
+- 🚫 No ads, with SponsorBlock built in
+- 🎧 Background play and picture-in-picture
+- ⬇️ Offline downloads
+- 🎵 Music player with synced lyrics
+- 🔄 Remote config + in-app update banners
+
+<a href="https://rajkumar30598.github.io/Adfree-tube-landing/"><img src="https://img.shields.io/badge/Website-Visit-FF0000?style=for-the-badge" alt="Website"></a>
+<a href="https://github.com/rajkumar30598/Adfree-tube-landing/releases/latest"><img src="https://img.shields.io/badge/Download-APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"></a>
+
+<p>
+<img src="https://rajkumar30598.github.io/Adfree-tube-landing/assets/screens/home.webp" width="31%" alt="Home">
+<img src="https://rajkumar30598.github.io/Adfree-tube-landing/assets/screens/watch.webp" width="31%" alt="Watch">
+<img src="https://rajkumar30598.github.io/Adfree-tube-landing/assets/screens/music-player.webp" width="31%" alt="Music player">
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://rajkumar30598.github.io/rookwise-site/"><img src="https://rajkumar30598.github.io/rookwise-site/icon-512.png" width="64" align="left" alt="Rookwise icon"></a>
+
+### [Rookwise](https://rajkumar30598.github.io/rookwise-site/)
+**Your pocket chess coach.**
+
+<br clear="left">
+
+Learn chess from zero and get better with every game — free, no ads, works offline.
+
+- ♟️ Lessons from the basics to checkmates
+- 🔍 Coach-style game review
+- 🧩 Puzzles built from your own mistakes
+- 🤖 Stockfish engine running on your phone
+- 📥 Import games from Lichess and Chess.com
+
+<a href="https://rajkumar30598.github.io/rookwise-site/"><img src="https://img.shields.io/badge/Website-Visit-769656?style=for-the-badge" alt="Website"></a>
+<a href="https://rajkumar30598.github.io/rookwise-site/"><img src="https://img.shields.io/badge/Android-Early_access-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"></a>
+
+<p>
+<img src="https://rajkumar30598.github.io/rookwise-site/img/app/home.jpg" width="31%" alt="Home">
+<img src="https://rajkumar30598.github.io/rookwise-site/img/app/review.jpg" width="31%" alt="Game review">
+<img src="https://rajkumar30598.github.io/rookwise-site/img/app/puzzles.jpg" width="31%" alt="Puzzles">
+</p>
+
+</td>
+</tr>
+</table>
 
 ### Tech I use
 
@@ -22,12 +83,10 @@ Frontend engineer (SDE 2 at **Ninjacart**, Bangalore) with 4+ years building rea
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
-### Featured projects
+### Other projects
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Rookwise**](https://rajkumar30598.github.io/rookwise-site/) | Free, ad-free offline chess coach for Android: lessons, game review, puzzles from your own mistakes, on-device Stockfish | Android · Stockfish |
-| [**AdFree Tube**](https://rajkumar30598.github.io/Adfree-tube-landing/) | Android video app with remote config, in-app update banners and auto-published APK releases | Android · GitHub Pages |
 | [**Local-Cursor-POC**](https://github.com/rajkumar30598/Local-Cursor-POC) | Cursor-style AI code editor running fully locally on Ollama: chat with file context, inline edits, git panel, terminal | React · Monaco · Express · Ollama |
 | [**nx-baselayout**](https://github.com/rajkumar30598/nx-baselayout) | Enterprise Nx monorepo starter: Next.js frontend + NestJS backend | Nx · Next.js · NestJS |
 | [**seat-booking-layout**](https://github.com/rajkumar30598/seat-booking-layout) | Interactive cinema seat picker with pricing tiers — [live demo](https://seat-booking-layout.vercel.app) | Angular |
