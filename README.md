@@ -1,9 +1,10 @@
 # Hi, I'm Rajkumar 👋
 
-Frontend engineer (SDE 2 at **Ninjacart**, Bangalore) with 4+ years building real-time web apps in **Angular** and **React**. Lately I've been shipping my own mobile apps and experimenting with AI-assisted developer tools.
+Frontend engineer (SDE 2 at **Neutrinos**) with 4+ years building real-time web apps in **Angular** and **React**. Lately I've been shipping my own mobile apps and experimenting with AI-assisted developer tools.
 
 - 📱 Building my own Android apps: **[AdFree Tube](https://rajkumar30598.github.io/Adfree-tube-landing/)** and **[Rookwise](https://rajkumar30598.github.io/rookwise-site/)**
-- ⚡ At work: real-time order management (Angular + WebSockets), in-app chat (Matrix), KYC and payment flows
+- 💼 Currently SDE 2 at **Neutrinos**
+- ⚡ Previously at **Ninjacart**: real-time order management (Angular + WebSockets), in-app chat (Matrix), KYC and payment flows
 - 🌐 Portfolio: [rajkumarv-portfolio.vercel.app](https://rajkumarv-portfolio.vercel.app)
 - 💼 [LinkedIn](https://www.linkedin.com/in/rajkumar-v-b11282225/) · 📫 rajkumar30598@gmail.com
 
