@@ -2,7 +2,7 @@
 
 Frontend engineer (SDE 2 at **Ninjacart**, Bangalore) with 4+ years building real-time web apps in **Angular** and **React**. Lately I've been shipping my own mobile apps and experimenting with AI-assisted developer tools.
 
-- 🛠️ Currently building **Rookwise** (chess coach), **AdFree Tube** and **ExamDesk** — Android apps
+- 🛠️ Currently building **Rookwise** (chess coach), **AdFree Tube** and **ExamDesk** as side projects
 - ⚡ At work: real-time order management (Angular + WebSockets), in-app chat (Matrix), KYC and payment flows
 - 🌐 Portfolio: [rajkumarv-portfolio.vercel.app](https://rajkumarv-portfolio.vercel.app)
 - 💼 [LinkedIn](https://www.linkedin.com/in/rajkumar-v-b11282225/) · 📫 rajkumar30598@gmail.com
