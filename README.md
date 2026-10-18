@@ -2,7 +2,7 @@
 
 Frontend engineer (SDE 2 at **Ninjacart**, Bangalore) with 4+ years building real-time web apps in **Angular** and **React**. Lately I've been shipping my own mobile apps and experimenting with AI-assisted developer tools.
 
-- 🛠️ Currently building **AdFree Tube**, **ExamDesk** and **Rookwise**
+- 🛠️ Currently building **Rookwise** (chess coach), **AdFree Tube** and **ExamDesk** — Android apps
 - ⚡ At work: real-time order management (Angular + WebSockets), in-app chat (Matrix), KYC and payment flows
 - 🌐 Portfolio: [rajkumarv-portfolio.vercel.app](https://rajkumarv-portfolio.vercel.app)
 - 💼 [LinkedIn](https://www.linkedin.com/in/rajkumar-v-b11282225/) · 📫 rajkumar30598@gmail.com
@@ -26,12 +26,12 @@ Frontend engineer (SDE 2 at **Ninjacart**, Bangalore) with 4+ years building rea
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**AdFree Tube**](https://rajkumar30598.github.io/Adfree-tube-landing/) | Android video app with remote config, in-app update banners and auto-published APK releases | Mobile · GitHub Pages |
+| [**Rookwise**](https://rajkumar30598.github.io/rookwise-site/) | Free, ad-free offline chess coach for Android: lessons, game review, puzzles from your own mistakes, on-device Stockfish | Android · Stockfish |
+| [**AdFree Tube**](https://rajkumar30598.github.io/Adfree-tube-landing/) | Android video app with remote config, in-app update banners and auto-published APK releases | Android · GitHub Pages |
+| [**Local-Cursor-POC**](https://github.com/rajkumar30598/Local-Cursor-POC) | Cursor-style AI code editor running fully locally on Ollama: chat with file context, inline edits, git panel, terminal | React · Monaco · Express · Ollama |
 | [**nx-baselayout**](https://github.com/rajkumar30598/nx-baselayout) | Enterprise Nx monorepo starter: Next.js frontend + NestJS backend | Nx · Next.js · NestJS |
-| [**MFE-library**](https://github.com/rajkumar30598/MFE-library) | Reusable Angular component library shared across apps ([consumer app](https://github.com/rajkumar30598/MFE-library-connected)) | Angular · ng-packagr |
-| [**seat-booking-layout**](https://github.com/rajkumar30598/seat-booking-layout) | Interactive theatre seat picker — [live demo](https://seat-booking-layout.vercel.app) | Angular |
-| [**meet-app-node-js**](https://github.com/rajkumar30598/meet-app-node-js) | Google Meet–style video calls with live chat — [live demo](https://meet-app-node-js.vercel.app) | Node.js · Socket.IO · PeerJS |
-| [**ngrx-store-poc**](https://github.com/rajkumar30598/ngrx-store-poc) | NgRx state management patterns | Angular · NgRx |
+| [**seat-booking-layout**](https://github.com/rajkumar30598/seat-booking-layout) | Interactive cinema seat picker with pricing tiers — [live demo](https://seat-booking-layout.vercel.app) | Angular |
+| [**meet-app-node-js**](https://github.com/rajkumar30598/meet-app-node-js) | Google Meet–style video calls with live chat | Node.js · Socket.IO · PeerJS |
 
 ### GitHub stats
 
