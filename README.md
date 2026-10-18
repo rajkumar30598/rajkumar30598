@@ -1,10 +1,9 @@
 # Hi, I'm Rajkumar 👋
 
-Frontend engineer (SDE 2 at **Neutrinos**) with 4+ years building real-time web apps in **Angular** and **React**. Lately I've been shipping my own mobile apps and experimenting with AI-assisted developer tools.
+Frontend engineer (**SDE 2 at Neutrinos**, Bangalore) with 4+ years building scalable web apps in **Angular** and **React** — reusable component libraries, design systems and real-time, high-volume interfaces. On the side I ship my own Android apps.
 
-- 📱 Building my own Android apps: **[AdFree Tube](https://rajkumar30598.github.io/Adfree-tube-landing/)** and **[Rookwise](https://rajkumar30598.github.io/rookwise-site/)**
-- 💼 Currently SDE 2 at **Neutrinos**
-- ⚡ Previously at **Ninjacart**: real-time order management (Angular + WebSockets), in-app chat (Matrix), KYC and payment flows
+- 📱 My apps: **[AdFree Tube](https://rajkumar30598.github.io/Adfree-tube-landing/)** and **[Rookwise](https://rajkumar30598.github.io/rookwise-site/)**
+- 🏆 Finalist, Smart India Hackathon 2019
 - 🌐 Portfolio: [rajkumarv-portfolio.vercel.app](https://rajkumarv-portfolio.vercel.app)
 - 💼 [LinkedIn](https://www.linkedin.com/in/rajkumar-v-b11282225/) · 📫 rajkumar30598@gmail.com
 
@@ -69,6 +68,22 @@ Learn chess from zero and get better with every game — free, no ads, works off
 </tr>
 </table>
 
+### Experience
+
+**Neutrinos** — Software Development Engineer II · *Mar 2026 – Present*
+- Architecting a platform-level UI component library used across multiple products
+- Theme-aware, accessible component system with documented APIs and semantic versioning
+- Faster renders and smaller bundles via lazy-loading, tree-shaking and OnPush change detection
+
+**Ninjacart** — Software Development Engineer II · *Jul 2022 – Mar 2026*
+- Real-time order management system (Angular + WebSockets) for high-volume trade; 25% faster order processing
+- Jira-style task board with drag-and-drop and live status sync
+- In-platform chat with matrix-js-sdk; KYC and payment modules (Digio, Ninja-Pay)
+
+**Gloify** — Angular Developer · *Feb 2022 – Jul 2022*
+- Live stock-analytics dashboards with Angular, WebSockets and Highcharts
+- Reusable UI component library for the team
+
 ### Tech I use
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -83,6 +98,9 @@ Learn chess from zero and get better with every game — free, no ads, works off
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white)
 
 ### Other projects
 
