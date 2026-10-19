@@ -13,6 +13,14 @@
   <img src="https://komarev.com/ghpvc/?username=rajkumar30598&style=for-the-badge&color=3178C6&label=Profile+views" alt="Profile views">
 </p>
 
+<p align="center">
+  <a href="#-my-apps">Apps</a> ·
+  <a href="#-experience">Experience</a> ·
+  <a href="#️-tech-i-use">Tech</a> ·
+  <a href="#-other-projects">Projects</a> ·
+  <a href="#-github-stats">Stats</a>
+</p>
+
 ## 🙋 About me
 
 Frontend engineer with 4+ years building scalable web apps in **Angular** and **React** — reusable component libraries, design systems and real-time, high-volume interfaces. On the side I ship my own Android apps.
@@ -39,6 +47,10 @@ A free, private video player for Android — no account needed.
 <p>
   <a href="https://rajkumar30598.github.io/Adfree-tube-landing/"><img src="https://img.shields.io/badge/Website-Visit-FF0000?style=for-the-badge" alt="Website"></a>
   <a href="https://github.com/rajkumar30598/Adfree-tube-landing/releases/latest"><img src="https://img.shields.io/badge/Download-APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"></a>
+  <br>
+  <a href="https://github.com/rajkumar30598/Adfree-tube-landing/releases/latest"><img src="https://img.shields.io/github/v/release/rajkumar30598/Adfree-tube-landing?style=flat-square&label=latest&color=FF0000" alt="Latest release"></a>
+  <a href="https://github.com/rajkumar30598/Adfree-tube-landing/releases"><img src="https://img.shields.io/github/downloads/rajkumar30598/Adfree-tube-landing/total?style=flat-square&label=downloads&color=3DDC84" alt="Total downloads"></a>
+  <a href="https://github.com/rajkumar30598/Adfree-tube-landing/releases"><img src="https://img.shields.io/github/release-date/rajkumar30598/Adfree-tube-landing?style=flat-square&label=updated" alt="Last updated"></a>
 </p>
 
 <p align="center">
@@ -151,6 +163,13 @@ Google Meet–style video calls with live chat.<br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rajkumar30598&hide_border=true&theme=github-dark-blue&background=00000000">
     <img src="https://streak-stats.demolab.com?user=rajkumar30598&hide_border=true&background=00000000" width="90%" alt="GitHub streak">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajkumar30598/rajkumar30598/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/rajkumar30598/rajkumar30598/output/github-snake.svg" width="100%" alt="Contribution snake eating my GitHub contribution graph">
   </picture>
 </p>
 
