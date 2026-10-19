@@ -1,20 +1,26 @@
-<h1 align="center">Hi, I'm Rajkumar 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DD0031,100:3178C6&height=180&section=header&text=Hi%2C%20I%27m%20Rajkumar%20%F0%9F%91%8B&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Frontend%20Engineer%20%C2%B7%20SDE%202%20at%20Neutrinos%20%C2%B7%20Bangalore&descSize=16&descAlignY=58" width="100%" alt="Hi, I'm Rajkumar — Frontend Engineer, SDE 2 at Neutrinos, Bangalore">
+</p>
 
 <p align="center">
-  <b>Frontend Engineer · SDE 2 at Neutrinos · Bangalore</b><br>
-  Angular · React · Design systems · Android apps on the side
+  <a href="https://github.com/rajkumar30598"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3178C6&center=true&vCenter=true&width=460&lines=Angular+%26+React+engineer;Building+design+systems;Real-time%2C+high-volume+UIs;Shipping+Android+apps+on+the+side" width="90%" alt="Angular & React engineer · Design systems · Android apps on the side"></a>
 </p>
 
 <p align="center">
   <a href="https://rajkumarv-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/rajkumar-v-b11282225/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:rajkumar30598@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://komarev.com/ghpvc/?username=rajkumar30598&style=for-the-badge&color=3178C6&label=Profile+views" alt="Profile views">
 </p>
+
+## 🙋 About me
 
 Frontend engineer with 4+ years building scalable web apps in **Angular** and **React** — reusable component libraries, design systems and real-time, high-volume interfaces. On the side I ship my own Android apps.
 
 - 📱 My apps: **[AdFree Tube](https://rajkumar30598.github.io/Adfree-tube-landing/)** and **[Rookwise](https://rajkumar30598.github.io/rookwise-site/)**
+- 🧱 Currently building a platform-wide UI component library at Neutrinos
 - 🏆 Finalist, Smart India Hackathon 2019
+- 💬 Ask me about Angular, RxJS, NgRx, design systems or real-time UIs
 
 ---
 
@@ -72,6 +78,10 @@ Learn chess from zero and get better with every game — free, no ads, works off
 - Theme-aware, accessible component system with documented APIs and semantic versioning
 - Faster renders and smaller bundles via lazy-loading, tree-shaking and OnPush change detection
 
+<details>
+<summary><b>Earlier roles — Ninjacart, Gloify</b></summary>
+<br>
+
 **Ninjacart** — Software Development Engineer II<br>
 *Jul 2022 – Mar 2026*
 - Real-time order management system (Angular + WebSockets) for high-volume trade; 25% faster order processing
@@ -83,26 +93,23 @@ Learn chess from zero and get better with every game — free, no ads, works off
 - Live stock-analytics dashboards with Angular, WebSockets and Highcharts
 - Reusable UI component library for the team
 
+</details>
+
 ---
 
 ## 🛠️ Tech I use
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" alt="NestJS">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/RxJS-B7178C?logo=reactivex&logoColor=white" alt="RxJS">
-  <img src="https://img.shields.io/badge/NgRx-BA2BD2?logo=ngrx&logoColor=white" alt="NgRx">
-  <img src="https://img.shields.io/badge/Nx-143055?logo=nx&logoColor=white" alt="Nx">
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white" alt="Cypress">
-  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" alt="Jest">
-  <img src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white" alt="Storybook">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,angular,react,nextjs,nestjs,nodejs,rxjs,tailwind,html,css,firebase,mongodb,jest,cypress,git&perline=8" width="90%" alt="TypeScript, JavaScript, Angular, React, Next.js, NestJS, Node.js, RxJS, Tailwind, HTML, CSS, Firebase, MongoDB, Jest, Cypress, Git">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NgRx-BA2BD2?style=flat-square&logo=ngrx&logoColor=white" alt="NgRx">
+  <img src="https://img.shields.io/badge/Nx-143055?style=flat-square&logo=nx&logoColor=white" alt="Nx">
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" alt="Storybook">
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets">
+  <img src="https://img.shields.io/badge/Highcharts-8087E8?style=flat-square" alt="Highcharts">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
 </p>
 
 ---
@@ -138,4 +145,15 @@ Google Meet–style video calls with live chat.<br>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkumar30598&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkumar30598&layout=compact&hide_border=true&bg_color=00000000" width="41%" alt="Top languages">
   </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rajkumar30598&hide_border=true&theme=github-dark-blue&background=00000000">
+    <img src="https://streak-stats.demolab.com?user=rajkumar30598&hide_border=true&background=00000000" width="90%" alt="GitHub streak">
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DD0031,100:3178C6&height=100&section=footer" width="100%" alt="">
 </p>
