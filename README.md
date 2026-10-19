@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DD0031,100:3178C6&height=180&section=header&text=Hi%2C%20I%27m%20Rajkumar%20%F0%9F%91%8B&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Frontend%20Engineer%20%C2%B7%20SDE%202%20at%20Neutrinos%20%C2%B7%20Bangalore&descSize=16&descAlignY=58" width="100%" alt="Hi, I'm Rajkumar — Frontend Engineer, SDE 2 at Neutrinos, Bangalore">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DD0031,100:3178C6&height=180&section=header&text=Hi%2C%20I%27m%20Rajkumar%20V%20%F0%9F%91%8B&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Frontend%20Engineer%20%C2%B7%20SDE%202%20at%20Neutrinos%20%C2%B7%20Bangalore&descSize=16&descAlignY=58" width="100%" alt="Hi, I'm Rajkumar V — Frontend Engineer, SDE 2 at Neutrinos, Bangalore">
 </p>
 
 <p align="center">
