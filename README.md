@@ -18,6 +18,7 @@
   <a href="#-experience">Experience</a> ·
   <a href="#️-tech-i-use">Tech</a> ·
   <a href="#-other-projects">Projects</a> ·
+  <a href="#-recent-activity">Activity</a> ·
   <a href="#-github-stats">Stats</a>
 </p>
 
@@ -80,6 +81,8 @@ Learn chess from zero and get better with every game — free, no ads, works off
   <img src="https://rajkumar30598.github.io/rookwise-site/img/app/puzzles.jpg" width="30%" alt="Puzzles">
 </p>
 
+<p align="right"><a href="#top">↑ Back to top</a></p>
+
 ---
 
 ## 💼 Experience
@@ -106,6 +109,8 @@ Learn chess from zero and get better with every game — free, no ads, works off
 - Reusable UI component library for the team
 
 </details>
+
+<p align="right"><a href="#top">↑ Back to top</a></p>
 
 ---
 
@@ -143,6 +148,15 @@ Interactive cinema seat picker with pricing tiers.<br>
 **[meet-app-node-js](https://github.com/rajkumar30598/meet-app-node-js)**<br>
 Google Meet–style video calls with live chat.<br>
 <sub>Node.js · Socket.IO · PeerJS</sub>
+
+<p align="right"><a href="#top">↑ Back to top</a></p>
+
+---
+
+## ⚡ Recent activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
