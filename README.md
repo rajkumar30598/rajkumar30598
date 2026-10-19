@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DD0031,100:3178C6&height=180&section=header&text=Hi%2C%20I%27m%20Rajkumar%20V%20%F0%9F%91%8B&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Frontend%20Engineer%20%C2%B7%20SDE%202&descSize=16&descAlignY=58" width="100%" alt="Hi, I'm Rajkumar V — Frontend Engineer, SDE 2">
-</p>
+<h1 align="center">Hi, I'm Rajkumar V 👋</h1>
+<p align="center"><b>Frontend Engineer · SDE 2</b></p>
 
 <p align="center">
   <a href="https://github.com/rajkumar30598"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3178C6&center=true&vCenter=true&width=460&lines=Angular+%26+React+engineer;Building+design+systems;Real-time%2C+high-volume+UIs;Shipping+Android+apps+on+the+side" width="90%" alt="Angular & React engineer · Design systems · Android apps on the side"></a>
@@ -190,8 +189,4 @@ Google Meet–style video calls with live chat.<br>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajkumar30598/rajkumar30598/output/github-snake-dark.svg">
     <img src="https://raw.githubusercontent.com/rajkumar30598/rajkumar30598/output/github-snake.svg" width="100%" alt="Contribution snake eating my GitHub contribution graph">
   </picture>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DD0031,100:3178C6&height=100&section=footer" width="100%" alt="">
 </p>
