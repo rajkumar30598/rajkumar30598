@@ -155,11 +155,11 @@ Google Meet–style video calls with live chat.<br>
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [AdFree Tube 1.10.0](https://github.com/rajkumar30598/Adfree-tube-landing/releases/tag/v1.10.0) in [rajkumar30598/Adfree-tube-landing](https://github.com/rajkumar30598/Adfree-tube-landing)
-2. 🚀 Published release [AdFree Tube 1.9.4](https://github.com/rajkumar30598/Adfree-tube-landing/releases/tag/v1.9.4) in [rajkumar30598/Adfree-tube-landing](https://github.com/rajkumar30598/Adfree-tube-landing)
-3. 🚀 Published release [AdFree Tube 1.9.3](https://github.com/rajkumar30598/Adfree-tube-landing/releases/tag/v1.9.3) in [rajkumar30598/Adfree-tube-landing](https://github.com/rajkumar30598/Adfree-tube-landing)
-4. 🚀 Published release [AdFree Tube 1.9.2](https://github.com/rajkumar30598/Adfree-tube-landing/releases/tag/v1.9.2) in [rajkumar30598/Adfree-tube-landing](https://github.com/rajkumar30598/Adfree-tube-landing)
-5. 🚀 Published release [AdFree Tube 1.9.1](https://github.com/rajkumar30598/Adfree-tube-landing/releases/tag/v1.9.1) in [rajkumar30598/Adfree-tube-landing](https://github.com/rajkumar30598/Adfree-tube-landing)
+1. 🚀 Published release [AdFree Tube 2.0.0](https://github.com/rajkumar30598/Adfree-tube-landing/releases/tag/v2.0.0) in [rajkumar30598/Adfree-tube-landing](https://github.com/rajkumar30598/Adfree-tube-landing)
+2. 🚀 Published release [AdFree Tube 1.10.0](https://github.com/rajkumar30598/Adfree-tube-landing/releases/tag/v1.10.0) in [rajkumar30598/Adfree-tube-landing](https://github.com/rajkumar30598/Adfree-tube-landing)
+3. 🚀 Published release [AdFree Tube 1.9.4](https://github.com/rajkumar30598/Adfree-tube-landing/releases/tag/v1.9.4) in [rajkumar30598/Adfree-tube-landing](https://github.com/rajkumar30598/Adfree-tube-landing)
+4. 🚀 Published release [AdFree Tube 1.9.3](https://github.com/rajkumar30598/Adfree-tube-landing/releases/tag/v1.9.3) in [rajkumar30598/Adfree-tube-landing](https://github.com/rajkumar30598/Adfree-tube-landing)
+5. 🚀 Published release [AdFree Tube 1.9.2](https://github.com/rajkumar30598/Adfree-tube-landing/releases/tag/v1.9.2) in [rajkumar30598/Adfree-tube-landing](https://github.com/rajkumar30598/Adfree-tube-landing)
 <!--END_SECTION:activity-->
 
 ---
